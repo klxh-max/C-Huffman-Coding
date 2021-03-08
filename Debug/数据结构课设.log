@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\Project\C++Project\数据结构课设\main.cpp(85,17): warning C4018: “<”: 有符号/无符号不匹配
+D:\Project\C++Project\数据结构课设\main.cpp(119,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Project\C++Project\数据结构课设\main.cpp(129,19): warning C4018: “<”: 有符号/无符号不匹配
+D:\Project\C++Project\数据结构课设\main.cpp(137,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Project\C++Project\数据结构课设\main.cpp(143,19): warning C4018: “<”: 有符号/无符号不匹配
+D:\Project\C++Project\数据结构课设\main.cpp(151,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Project\C++Project\数据结构课设\main.cpp(161,19): warning C4018: “<”: 有符号/无符号不匹配
+D:\Project\C++Project\数据结构课设\main.cpp(162,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Project\C++Project\数据结构课设\main.cpp(186,19): warning C4018: “<”: 有符号/无符号不匹配
+  数据结构课设.vcxproj -> D:\Project\C++Project\数据结构课设\Debug\数据结构课设.exe
